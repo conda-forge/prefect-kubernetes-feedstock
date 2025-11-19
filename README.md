@@ -147,6 +147,3 @@ Feedstock Maintainers
 * [@e7b7](https://github.com/e7b7/)
 * [@saschwartz](https://github.com/saschwartz/)
 
-
-<!-- dummy commit to enable rerendering -->
-
