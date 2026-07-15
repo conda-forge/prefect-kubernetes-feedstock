@@ -1,5 +1,5 @@
 {% set name = "prefect-kubernetes" %}
-{% set version = "0.7.10" %}
+{% set version = "0.7.11" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/prefect_kubernetes-{{ version }}.tar.gz
-  sha256: c87040565098ff6d197af328260c9ad471d1f38d19a92d4a725cfdd3c45f4341
+  sha256: d39dd7bb88224697ac7f9959bf5ebcf67a1662b440c5caa5ec74ac16e590e1a2
 
 build:
   noarch: python
